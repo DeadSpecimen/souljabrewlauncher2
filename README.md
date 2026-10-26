@@ -517,8 +517,7 @@ The Pico uses [Adafruit CircuitPython HID](https://github.com/adafruit/Adafruit_
 its MIT notice is included beside the vendored library. CircuitPython, Node.js,
 Khronos glslang/SPIRV-Tools, Vulkan, Pillow, and DejaVu provide the supporting tools.
 
-The included menu recording is **Homebrew Channel music** by **drmr**, from
-*dark waters*, provided as the `intro.pcm` and `loop.pcm` segments in
+The included menu recording is **Crank That** by **Soulja Boy** provided as the `intro.pcm` and `loop.pcm` segments in
 `homebrew-launcher/audio/`. Attribution does not relicense third-party music or upstream
 code. No blanket project license has been assigned here; retain third-party
 notices and resolve redistribution permissions before publishing a licensed
